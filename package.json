@@ -1,0 +1,23 @@
+{
+  "name": "ativ7",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000t\u0000i\u0000v\u00007\u0000\r\u0000 \u0000",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoRaia1/ativ7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThiagoRaia1/ativ7/issues"
+  },
+  "homepage": "https://github.com/ThiagoRaia1/ativ7#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
