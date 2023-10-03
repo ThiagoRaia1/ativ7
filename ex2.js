@@ -22,8 +22,8 @@ const cliente1 = new Cliente("Thiago", "(19) 99999-9999", 3000, "thiagoraia2004@
 cliente1
     .verificarCredito()
     .then((resultado) => {
-        console.log(resultado);
+        console.log(resultado)
     })
     .catch((erro) => {
-        console.error(erro);
+        console.error(erro)
     })
