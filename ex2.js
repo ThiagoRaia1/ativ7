@@ -17,7 +17,7 @@ class Cliente {
     }
 }
 
-const cliente1 = new Cliente("Thigas", "(19) 98958-5406", 3000, "thiagoraia2004@gmail.com")
+const cliente1 = new Cliente("Thiago", "(19) 99999-9999", 3000, "thiagoraia2004@gmail.com")
 
 cliente1
     .verificarCredito()
