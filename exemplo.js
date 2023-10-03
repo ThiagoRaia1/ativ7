@@ -1,6 +1,3 @@
-import Promptsync from "Prompt-sync"
-const prompt = Promptsync()
-
 class Estudante {
     constructor(nome, email, RA, curso, disciplinas) {
         this.nome = nome
